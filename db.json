@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "0bf3",
+      "name": "k",
+      "email": "k@gmail.com",
+      "password": "123",
+      "confirmpassword": "123",
+      "gender": "male",
+      "role": "user"
+    },
+    {
+      "id": "d517",
+      "name": "kriss",
+      "email": "kriss23@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "gender": "male",
+      "role": "admin"
+    },
+    {
+      "id": "9004",
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "password": "1011",
+      "confirmpassword": "1011",
+      "gender": "female",
+      "role": "user"
+    }
+  ],
+  "task": [
+    {
+      "id": "93e7",
+      "task": "managment",
+      "description": "Interview",
+      "category": "Personal",
+      "status": "Pending",
+      "userId": "0bf3",
+      "title": "to do"
+    },
+    {
+      "id": "6e73",
+      "task": "rr",
+      "description": "i am kriss",
+      "category": "Personal",
+      "status": "Completed",
+      "userId": "0bf3"
+    },
+    {
+      "id": "b9c4",
+      "task": "login page",
+      "description": "hard desinge and code",
+      "category": "Personal",
+      "status": "Completed",
+      "userId": null
+    },
+    {
+      "id": "4a21",
+      "task": "mathametics",
+      "description": "medium",
+      "category": "Other",
+      "status": "Pending",
+      "userId": "9004",
+      "title": "bio"
+    }
+  ]
+}
